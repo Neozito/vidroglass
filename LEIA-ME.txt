@@ -1,0 +1,9 @@
+VIDROGLASS — SITE INSTITUCIONAL
+
+COMO USAR
+1. Extraia o ZIP.
+2. Abra index.html no navegador ou publique o conteúdo da pasta em uma hospedagem estática.
+3. Mantenha a pasta assets junto ao index.html.
+
+O site inclui a logo horizontal da Vidroglass no cabeçalho e no rodapé, cartões e bandeiras aceitos, links para Facebook e Instagram, ícones atualizados, localização no Google Maps, telefone e WhatsApp da empresa e formulário encaminhado para o WhatsApp.
+As fotos são ilustrativas. Os links de Facebook e Instagram fazem uma busca pelo nome da empresa porque os perfis oficiais não foram informados.
